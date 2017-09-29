@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrovePi", "..\..\..\..\Experiment\GrovePi-master\Software\CSharp\GrovePi\GrovePi.csproj", "{A667742A-B887-4B46-8EC1-C671E8BEC5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomSensor", "RoomSensor\RoomSensor.csproj", "{9975037A-3150-4798-8662-66F0BD7D979E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Debug|ARM.ActiveCfg = Debug|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Debug|ARM.Build.0 = Debug|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Debug|x64.ActiveCfg = Debug|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Debug|x86.ActiveCfg = Debug|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Release|ARM.ActiveCfg = Release|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Release|ARM.Build.0 = Release|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Release|x64.ActiveCfg = Release|ARM
+		{A667742A-B887-4B46-8EC1-C671E8BEC5E4}.Release|x86.ActiveCfg = Release|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|ARM.ActiveCfg = Debug|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|ARM.Build.0 = Debug|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|ARM.Deploy.0 = Debug|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x64.ActiveCfg = Debug|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x64.Build.0 = Debug|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x64.Deploy.0 = Debug|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x86.ActiveCfg = Debug|x86
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x86.Build.0 = Debug|x86
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Debug|x86.Deploy.0 = Debug|x86
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|ARM.ActiveCfg = Release|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|ARM.Build.0 = Release|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|ARM.Deploy.0 = Release|ARM
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x64.ActiveCfg = Release|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x64.Build.0 = Release|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x64.Deploy.0 = Release|x64
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x86.ActiveCfg = Release|x86
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x86.Build.0 = Release|x86
+		{9975037A-3150-4798-8662-66F0BD7D979E}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

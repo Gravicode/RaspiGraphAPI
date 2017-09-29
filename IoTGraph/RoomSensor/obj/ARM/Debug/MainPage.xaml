@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="RoomSensor.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RoomSensor"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid >
+        <StackPanel Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Orientation="Vertical" >
+            <TextBlock x:ConnectionId='1' Foreground="Black" FontSize="22" Name="TxtDistance"></TextBlock>
+            <TextBlock x:ConnectionId='2' Foreground="Black" FontSize="22" Name="TxtLight"></TextBlock>
+            <TextBlock x:ConnectionId='3'  Foreground="Black" FontSize="22" Name="TxtTemp"></TextBlock>
+            <TextBlock x:ConnectionId='4' Foreground="Black" FontSize="22" Name="TxtSound"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>
+

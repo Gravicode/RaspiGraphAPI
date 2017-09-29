@@ -1,0 +1,2 @@
+C:\Experiment\GrovePi-master\Software\CSharp\GrovePi\GrovePi.csproj;arm
+C:\Jobs\AzureProductivity\Demo\IoTGraph\RoomSensor\RoomSensor.csproj;arm
